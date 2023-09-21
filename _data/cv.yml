@@ -66,17 +66,17 @@
       institution: <a href="https://www.drdo.gov.in/labs-and-establishments/centre-artificial-intelligence-robotics-cair">Center for Artificial Intelligence and Robotics (CAIR)</a>
       year: May 2021 - Jul 2021
       description:
-        - Developed a Visual Question Answering (VQA) model integrated in a Robotic Operating System (ROS) environment.
-        - Mentored by <a href="https://in.linkedin.com/in/arshad-jamal-99146923">Dr. Arshad Jamal</a>.
+        - Developed a Visual Question Answering (VQA) model integrated with a Robotic Operating System (ROS) based environment.
+        - Mentored by <a href="https://www.linkedin.com/in/arshad-jamal-5536213/">Dr. Arshad Jamal</a>.
 
-# - title: Teaching Experience
-#   type: list
-#   contents: 
-#     # - year: 2023
-#       # items: 
-#       - Co-held a 2-Day Lab-session on basics of Digital Image Processing using python and numpy as part of a Computer Vision course at <a href="https://research.samsung.com/sri-b">Samsung Research Institute, Bangalore</a>. [<a href="https://github.com/AmoghTiwari/202307_SamsungTutorial/">Notes</a>]
-#       - Co-held 2 sessions at <a href="https://cvit.iiit.ac.in/workshops/3dvision/">3D Vision Summer School (3DVSS) - 2023</a>. [<a href="https://github.com/AmoghTiwari/202307_SamsungTutorial/">Notes</a>]
-#       - Teaching Assistant for Computer Vision and Computer Systems Organization courses at IIIT-H. (Responsibilities included conducting tutorials, creating and evaluating assignments and mentoring course projects).
+- title: Teaching Experience
+  type: list
+  contents: 
+    # - year: 2023
+      # items: 
+      - Co-held a 2-Day Lab-session on basics of Digital Image Processing using python and numpy as part of a Computer Vision course at <a href="https://research.samsung.com/sri-b">Samsung Research Institute, Bangalore</a>. [<a href="https://github.com/AmoghTiwari/202307_SamsungTutorial/">Notes</a>]
+      - Co-held 2 sessions at <a href="https://cvit.iiit.ac.in/workshops/3dvision/">3D Vision Summer School (3DVSS) - 2023</a>. [<a href="https://github.com/AmoghTiwari/202307_SamsungTutorial/">Notes</a>]
+      - Teaching Assistant for Computer Vision (Spring ’23) and Computer Systems Organization (Spring ’22) courses at IIIT-H. (Responsibilities included conducting tutorials, creating & evaluating assignments, and mentoring course projects).
  
 
     # - year: 2022
@@ -99,7 +99,7 @@
 - title: Volunteering and Extra-Curricular
   type: list
   contents:
-    - Reviewer for <a href="https://events.iitgn.ac.in/2022/icvgip/index.html">ICVGIP '22</a> and <a href="https://www.iitrpr.ac.in/ICVGIP/index.htm">ICVGIP '23</a>.
+    - Served as reviewer for <a href="https://events.iitgn.ac.in/2022/icvgip/index.html">ICVGIP '22</a> and <a href="https://www.iitrpr.ac.in/ICVGIP/index.htm">ICVGIP '23</a>.
     - Co-led a 50-member team for an year as the overall coordinator of <a href="https://ecell.iiit.ac.in/">E-Cell, IIIT Hyderabad</a>.
     - Member of college basketball team.
 
