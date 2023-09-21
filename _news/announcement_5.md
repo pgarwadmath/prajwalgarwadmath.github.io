@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Submitted a paper on [Temporally Consistent 3D Human Pose & Shape Estimation](#)  to [IEEE Winter Conference on Applications of Computer Vision (WACV)](https://wacv2024.thecvf.com/).
+Submitted a [paper](https://drive.google.com/file/d/1wS9vGdlpnGUOTnJ7rlQA_TmoLYqj-3lY/view?usp=drive_link) on Temporally Consistent 3D Human Pose & Shape Estimation to [WACV](https://wacv2024.thecvf.com/).
