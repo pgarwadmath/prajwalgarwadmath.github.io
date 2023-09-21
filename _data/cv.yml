@@ -47,35 +47,35 @@
       year: Feb 2023 - Sep 2023
       description:
         - Worked on Temporally Consistent 3D Human Pose and Shape Estimation.
-        - Mentored by <a href="https://lokender.github.io/">Dr. Lokender Tiwari</a> and <a href="https://sites.google.com/view/brojeshwar/home">Dr. Brojeshwar Bhowmick</a>.
+        - Was mentored by <a href="https://lokender.github.io/">Dr. Lokender Tiwari</a> and <a href="https://sites.google.com/view/brojeshwar/home">Dr. Brojeshwar Bhowmick</a>.
     - title: Computer Vision Intern
       institution: <a href="https://www.spatial.guide/">Spatial Guide</a>
       year: May 2022 - Aug 2022
       description:
         - Worked on in-the-wild 6-DoF Object Pose Estimation.
-        - Mentored by <a href="https://www.linkedin.com/in/akhilraja/">Mr. Akhil Raja</a> and <a href="https://www.linkedin.com/in/yagna-akuluri/">Mr. Yagna Akuluri</a>.
+        - Was mentored by <a href="https://www.linkedin.com/in/akhilraja/">Mr. Akhil Raja</a> and <a href="https://www.linkedin.com/in/yagna-akuluri/">Mr. Yagna Akuluri</a>.
 
     - title: Student Resesarcher
       institution: <a href="https://cvit.iiit.ac.in/">Center for Visual Information Technology (CVIT), IIIT-H</a>
       year: Jan 2022 - Sep 2022
       description:
         - Worked on Visual Grounding for Autonomous Navigation (project led to an ICRA 2023 publication).
-        - Mentored by <a href="https://faculty.iiit.ac.in/~vgandhi/">Prof. Vineet Gandhi</a>.
+        - Was mentored by <a href="https://faculty.iiit.ac.in/~vgandhi/">Prof. Vineet Gandhi</a>.
 
     - title: Student Trainee (Remote)
       institution: <a href="https://www.drdo.gov.in/labs-and-establishments/centre-artificial-intelligence-robotics-cair">Center for Artificial Intelligence and Robotics (CAIR)</a>
       year: May 2021 - Jul 2021
       description:
         - Developed a Visual Question Answering (VQA) model integrated with a Robotic Operating System (ROS) based environment.
-        - Mentored by <a href="https://www.linkedin.com/in/arshad-jamal-5536213/">Dr. Arshad Jamal</a>.
+        - Was mentored by <a href="https://www.linkedin.com/in/arshad-jamal-5536213/">Dr. Arshad Jamal</a>.
 
 - title: Teaching Experience
   type: list
   contents: 
     # - year: 2023
       # items: 
-      - Co-held a 2-Day Lab-session on basics of Digital Image Processing using python and numpy as part of a Computer Vision course at <a href="https://research.samsung.com/sri-b">Samsung Research Institute, Bangalore</a>. [<a href="https://github.com/AmoghTiwari/202307_SamsungTutorial/">Notes</a>]
-      - Co-held 2 sessions at <a href="https://cvit.iiit.ac.in/workshops/3dvision/">3D Vision Summer School (3DVSS) - 2023</a>. [<a href="https://github.com/AmoghTiwari/202307_SamsungTutorial/">Notes</a>]
+      - Co-held a 2-Day lab session on the basics of Digital Image Processing using Python and Numpy as part of a Computer Vision course at <a href="https://research.samsung.com/sri-b">Samsung Research Institute, Bangalore</a>. [<a href="https://github.com/AmoghTiwari/202307_SamsungTutorial/">Notes</a>].
+      - Co-held 2 sessions at <a href="https://cvit.iiit.ac.in/workshops/3dvision/">3D Vision Summer School (3DVSS) - 2023</a>. [<a href="https://drive.google.com/drive/folders/1lUK3RKKRmGBuXpHNx-WsHbzNk4KyjnH7?usp=drive_link">Notes</a>].
       - Teaching Assistant for Computer Vision (Spring ’23) and Computer Systems Organization (Spring ’22) courses at IIIT-H. (Responsibilities included conducting tutorials, creating & evaluating assignments, and mentoring course projects).
  
 
@@ -93,7 +93,7 @@
         - Member of winning team of <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2023-india">Qualcomm Innovation Fellowship (QIF) - 2023</a>.
     - year: 2022
       items:
-        - Secured first position in Geo-Innovation Challenge (2022) organized by <a href="http://www.dtu.ac.in/Web/Departments/MCG/about/index.php">Multidisciplinary Center for Geoinformatics, Delhi Technological University</a>. [<a href="https://drive.google.com/file/d/1eq5-ujySGJIRnrzzm9evw_B-jO2mZuiN/view?usp=sharing">Solution</a>]
+        - Secured first position in Geo-Innovation Challenge (2022) organized by the <a href="http://www.dtu.ac.in/Web/Departments/MCG/about/index.php">Multidisciplinary Center for Geoinformatics, Delhi Technological University</a>. [<a href="https://drive.google.com/file/d/1eq5-ujySGJIRnrzzm9evw_B-jO2mZuiN/view?usp=sharing">Solution</a>].
 
 
 - title: Volunteering and Extra-Curricular
