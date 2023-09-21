@@ -3,7 +3,7 @@ layout: post
 # title: A long announcement with details
 # title: A long announcement with details # Use this if making a long announcement
 date: 2023-04-08 00:00:00-0000
-inline: true # Set to false
+inline: true # Set to false for long announcement
 related_posts: false
 ---
 
