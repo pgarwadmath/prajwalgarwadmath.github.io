@@ -41,11 +41,11 @@ layout: default
           </div>
 
           <!-- News -->
-          {% if page.news -%}
+          {% if page.news and site.announcements.enabled -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
             {%- include news.html %}
           {%- endif %}
-
+          <br>
           <!-- Latest posts -->
           {% if page.latest_posts -%}
             <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
