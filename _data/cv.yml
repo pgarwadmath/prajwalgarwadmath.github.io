@@ -69,32 +69,49 @@
         - Developed a Visual Question Answering (VQA) model integrated with a Robotic Operating System (ROS) based environment.
         - Was mentored by <a href="https://www.linkedin.com/in/arshad-jamal-5536213/">Dr. Arshad Jamal</a>.
 
+# - title: Teaching Experience
+#   type: list
+#   contents: 
+#     # - year: 2023
+#       # items: 
+#       - Co-held a 2-Day lab session on the basics of Digital Image Processing using Python and Numpy as part of a Computer Vision course at <a href="https://research.samsung.com/sri-b">Samsung Research Institute, Bangalore</a>. [<a href="https://github.com/AmoghTiwari/202307_SamsungTutorial/">Notes</a>].
+#       - Co-held 2 sessions at <a href="https://cvit.iiit.ac.in/workshops/3dvision/">3D Vision Summer School (3DVSS) - 2023</a>. [<a href="https://drive.google.com/drive/folders/1lUK3RKKRmGBuXpHNx-WsHbzNk4KyjnH7?usp=drive_link">Notes</a>].
+#       - Teaching Assistant for Computer Vision (Spring ’23) and Computer Systems Organization (Spring ’22) courses at IIIT-H. (Responsibilities included conducting tutorials, creating & evaluating assignments, and mentoring course projects).
+#       - Conducted tutorial on LaTex as part of the Computing Tools course at IIIT-H. <a href="https://drive.google.com/drive/folders/1i16s5mL9QwhXEoGklraNclXCuZLgMcXk?usp=sharing">[Notes]</a>
+
 - title: Teaching Experience
-  type: list
-  contents: 
-    # - year: 2023
-      # items: 
-      - Co-held a 2-Day lab session on the basics of Digital Image Processing using Python and Numpy as part of a Computer Vision course at <a href="https://research.samsung.com/sri-b">Samsung Research Institute, Bangalore</a>. [<a href="https://github.com/AmoghTiwari/202307_SamsungTutorial/">Notes</a>].
-      - Co-held 2 sessions at <a href="https://cvit.iiit.ac.in/workshops/3dvision/">3D Vision Summer School (3DVSS) - 2023</a>. [<a href="https://drive.google.com/drive/folders/1lUK3RKKRmGBuXpHNx-WsHbzNk4KyjnH7?usp=drive_link">Notes</a>].
-      - Teaching Assistant for Computer Vision (Spring ’23) and Computer Systems Organization (Spring ’22) courses at IIIT-H. (Responsibilities included conducting tutorials, creating & evaluating assignments, and mentoring course projects).
- 
-
-    # - year: 2022
-      # items:
-      # items: 
-      #   - Max Planck Medal
-
-
-- title: Other Achievements
   type: time_table
   contents: 
     - year: 2023
       items: 
-        - Member of winning team of <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2023-india">Qualcomm Innovation Fellowship (QIF) - 2023</a>, for proposal titled "Towards Physics-inspired Template-free 4D Clothed Human Digitization from RGB Video(s)".
+      - Co-held a 2-Day lab session on the basics of Digital Image Processing using Python and Numpy as part of a Computer Vision course at <a href="https://research.samsung.com/sri-b">Samsung Research Institute, Bangalore</a>. [<a href="https://github.com/AmoghTiwari/202307_SamsungTutorial/">Notes</a>].
+      - Co-held 2 sessions at <a href="https://cvit.iiit.ac.in/workshops/3dvision/">3D Vision Summer School (3DVSS) - 2023</a>. [<a href="https://drive.google.com/drive/folders/1lUK3RKKRmGBuXpHNx-WsHbzNk4KyjnH7?usp=drive_link">Notes</a>].
+      - Teaching Assistant for Computer Vision (Spring ’23) course at IIIT-H (Responsibilities included conducting tutorials, creating & evaluating assignments, and mentoring course projects).
     - year: 2022
-      items:
-        - Secured first position in Geo-Innovation Challenge (2022) organized by the <a href="http://www.dtu.ac.in/Web/Departments/MCG/about/index.php">Multidisciplinary Center for Geoinformatics, Delhi Technological University</a>. [<a href="https://drive.google.com/file/d/1eq5-ujySGJIRnrzzm9evw_B-jO2mZuiN/view?usp=sharing">Solution</a>].
+      items: 
+      - Teaching Assistant for Computer Systems Organization (Spring ’22) course at IIIT-H. (Responsibilities included conducting tutorials, creating & evaluating assignments).
+      - Conducted tutorial on LaTex as part of the Computing Tools course at IIIT-H. <a href="https://drive.google.com/drive/folders/1i16s5mL9QwhXEoGklraNclXCuZLgMcXk?usp=sharing">[Notes]</a>
 
+# - title: Other Achievements
+#   type: time_table
+#   contents: 
+#     - year: 2023
+#       items: 
+#         - Member of winning team of <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2023-india">Qualcomm Innovation Fellowship (QIF) - 2023</a>, for proposal titled "Towards Physics-inspired Template-free 4D Clothed Human Digitization from RGB Video(s)".
+#     - year: 2022
+#       items:
+#         - Secured first position in Geo-Innovation Challenge (2022) organized by the <a href="http://www.dtu.ac.in/Web/Departments/MCG/about/index.php">Multidisciplinary Center for Geoinformatics, Delhi Technological University</a>. [<a href="https://drive.google.com/file/d/1eq5-ujySGJIRnrzzm9evw_B-jO2mZuiN/view?usp=sharing">Solution</a>].
+#     - year: 2018
+#       items:
+#         - All India Rank 8458 (top 1 percentile) in JEE Mains (Engineering Entrance Exam).
+
+- title: Other Achievements
+  type: list
+  contents: 
+      - Member of winning team of <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2023-india">Qualcomm Innovation Fellowship (QIF) - 2023</a>, for proposal titled "Towards Physics-inspired Template-free 4D Clothed Human Digitization from RGB Video(s)".
+      - Secured first position in Geo-Innovation Challenge (2022) organized by the <a href="http://www.dtu.ac.in/Web/Departments/MCG/about/index.php">Multidisciplinary Center for Geoinformatics, Delhi Technological University</a>. [<a href="https://drive.google.com/file/d/1eq5-ujySGJIRnrzzm9evw_B-jO2mZuiN/view?usp=sharing">Solution</a>].
+      - All India Rank 8458 (top 1 percentile) in JEE Mains (Engineering Entrance Exam).
+      - A more extensive list can be found <a href="">here</a>.
 
 - title: Volunteering and Extra-Curricular
   type: list
