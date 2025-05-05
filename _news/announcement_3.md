@@ -11,6 +11,6 @@ image: SIH.png
 We developed an innovative solution for real-time 3D reconstruction and preservation of heritage sites using SfM, NeRF, and 3D Gaussian Splatting. Showcased through immersive AR/VR experiences, the project addressed real-world challenges in defense and industrial applications requiring spatial awareness and high-fidelity visualization. 
 
 <!-- <img src="/assets/img/SIH.png" alt="SIH 2023 Victory Image"/> -->
-<img src="/assets/img/publication_preview/SIH.png" alt="SIH 2023 Victory Image" style="width: 700px;" />
+<img src="/assets/img/publication_preview/sih.png" alt="SIH 2023 Victory Image" style="width: 700px;" />
 
 <!-- <img src="/assets/img/SIH.png" alt="SIH 2023 Victory Image" class="img-responsive"/> -->
