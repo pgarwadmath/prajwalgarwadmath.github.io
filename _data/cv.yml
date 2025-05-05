@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Amogh Tiwari
+      value: Prajwal Garwadmath
     - name: Date of Birth
-      value: 09 May 2000
+      value: 25 Sep 2002
     - name: Languages
-      value: English, Hindi
+      value: Kannada, Hindi, English
 
 - title: Education
   type: time_table
@@ -21,53 +21,53 @@
     #       contents:
     #         - Sub-description 1.
     #         - Sub-description 2.
-    - title: B.Tech and M.S. (by Research) in Computer Science
-      institution: International Institute of Information Technology (IIIT), Hyderabad, India
-      year: Aug 2018 - Present
-      description: CGPA 8.11/10.00
+    - title: B.E in Electronics & Communication
+      institution: KLE Technological University (KLETECH), Hubli, India
+      year: Aug 2020 - Present
+      description: CGPA 7.76/10.00
       #   - Description 1.
       #   - Description 2.
 
 - title: Research Experience
   type: time_table
   contents:
-    - title: Student Researcher
-      institution: <a href="https://cvit.iiit.ac.in/">Center for Visual Information Technology (CVIT), IIIT-H</a>
-      year: May 2020 - Present
+    - title: Student Researcher (Research for Undergraduates)
+      institution: <a href="https://www.cevi.co.in/">Center of Excellence in Visual Intelligence, KLETECH</a>
+      year: Oct 2023- Feb 2024
       description:
-        - Presently working on Temporally Consistent 3D Human Pose and Shape Estimation.
+        - Worked on Point cloud Refinement.
         - title: Past Projects
           contents:
-            - Dense Human-Centric Correspondence Estimation.
-            - Appearance Agnostic 6-DoF Object Pose Estimation using Heat Diffusion.
-            - Using Event Cameras for Human Motion Capture.
-        - Mentored by <a href="https://3dcomputervision.github.io/about/">Prof. Avinash Sharma</a>.
-    - title: Research Intern (Remote)
-      institution: <a href="https://www.tcs.com/what-we-do/research">TCS Research</a>
+            - Resolution Tolerent Feature Extraction through Contrastive Learning.
+            - Point Cloud Shape Completion.
+            - Point Cloud Segmentation.
+        - Mentored by <a href="https://scholar.google.com/citations?user=neA5dOwAAAAJ&hl=en">Dr. Uma Mudengudi</a> and <a href="https://scholar.google.com/citations?user=4-9pu5wAAAAJ&hl=en">Ramesh Ashok Tabib</a>.
+    - title: Student Trainee
+      institution: <a href="https://www.cevi.co.in/">Center of Excellence in Visual Intelligence, KLETECH</a>
       year: Feb 2023 - Sep 2023
       description:
-        - Worked on Temporally Consistent 3D Human Pose and Shape Estimation.
-        - Was mentored by <a href="https://lokender.github.io/">Dr. Lokender Tiwari</a> and <a href="https://sites.google.com/view/brojeshwar/home">Dr. Brojeshwar Bhowmick</a>.
+        - Worked on 3D Reconstruction Pipelines.
+        - Mentored by <a href="https://scholar.google.com/citations?user=neA5dOwAAAAJ&hl=en">Dr. Uma Mudengudi</a> and <a href="https://scholar.google.com/citations?user=4-9pu5wAAAAJ&hl=en">Ramesh Ashok Tabib</a>.
     - title: Computer Vision Intern
-      institution: <a href="https://www.spatial.guide/">Spatial Guide</a>
+      institution: <a href="https://home.iitd.ac.in/">Indian Institute of Technology Delhi (IITD)</a>
       year: May 2022 - Aug 2022
       description:
-        - Worked on in-the-wild 6-DoF Object Pose Estimation.
-        - Was mentored by <a href="https://www.linkedin.com/in/akhilraja/">Mr. Akhil Raja</a> and <a href="https://www.linkedin.com/in/yagna-akuluri/">Mr. Yagna Akuluri</a>.
+        - Worked on 3D Reconstruction & Visual Odometry.
+        - Mentored by <a href="https://scholar.google.com/citations?user=RXrkOHsAAAAJ">Prof. Chetan Arora</a>
 
-    - title: Student Researcher
-      institution: <a href="https://cvit.iiit.ac.in/">Center for Visual Information Technology (CVIT), IIIT-H</a>
+    - title: Student Trainee
+      institution: <a href="https://www.cevi.co.in/">Center of Excellence in Visual Intelligence, KLETECH</a>
       year: Jan 2022 - Sep 2022
       description:
-        - Worked on Visual Grounding for Autonomous Navigation (project led to an ICRA 2023 publication).
-        - Was mentored by <a href="https://faculty.iiit.ac.in/~vgandhi/">Prof. Vineet Gandhi</a>.
+        - Synthetic Data Generation Using Blender (Samsung R&D).
+        - Was mentored by <a href="https://scholar.google.com/citations?user=4-9pu5wAAAAJ&hl=en">Ramesh Ashok Tabib</a>.
 
-    - title: Student Trainee (Remote)
-      institution: <a href="https://www.drdo.gov.in/labs-and-establishments/centre-artificial-intelligence-robotics-cair">Center for Artificial Intelligence and Robotics (CAIR)</a>
+    - title: Student Trainee
+      institution: <a href="https://www.cevi.co.in/">Center of Excellence in Visual Intelligence, KLETECH</a>
       year: May 2021 - Jul 2021
       description:
-        - Developed a Visual Question Answering (VQA) model integrated with a Robotic Operating System (ROS) based environment.
-        - Was mentored by <a href="https://www.linkedin.com/in/arshad-jamal-5536213/">Dr. Arshad Jamal</a>.
+        - Canonical View Rendering of Point Clouds.
+        - Was mentored by <a href="https://scholar.google.com/citations?user=4-9pu5wAAAAJ&hl=en">Ramesh Ashok Tabib</a>.
 
 # - title: Teaching Experience
 #   type: list
@@ -79,19 +79,15 @@
 #       - Teaching Assistant for Computer Vision (Spring ’23) and Computer Systems Organization (Spring ’22) courses at IIIT-H. (Responsibilities included conducting tutorials, creating & evaluating assignments, and mentoring course projects).
 #       - Conducted tutorial on LaTex as part of the Computing Tools course at IIIT-H. <a href="https://drive.google.com/drive/folders/1i16s5mL9QwhXEoGklraNclXCuZLgMcXk?usp=sharing">[Notes]</a>
 
-- title: Teaching Experience
+- title: Work Experience
   type: time_table
   contents: 
-    - year: 2023
+    - year: 2024
       items: 
-      - Co-held a 2-Day lab session on the basics of Digital Image Processing using Python and Numpy as part of a Computer Vision course at <a href="https://research.samsung.com/sri-b">Samsung Research Institute, Bangalore</a>. [<a href="https://github.com/AmoghTiwari/202307_SamsungTutorial/">Notes</a>].
-      - Co-held 2 sessions at <a href="https://cvit.iiit.ac.in/workshops/3dvision/">3D Vision Summer School (3DVSS) - 2023</a>. [<a href="https://drive.google.com/drive/folders/1lUK3RKKRmGBuXpHNx-WsHbzNk4KyjnH7?usp=drive_link">Notes</a>].
-      - Teaching Assistant for Computer Vision (Spring ’23) course at IIIT-H (Responsibilities included conducting tutorials, creating & evaluating assignments, and mentoring course projects).
-    - year: 2022
+      - Working as an AI/ML Engineer at <strong><a href="https://vocab-ai.com/"> VOCAB.AI – IIIT-Dharwad</a></strong>, where I designed and implemented core functionalities for an AI-powered CRM web application. Integrated automatic speech recognition (ASR) and voice activity detection (VAD) pipelines to optimize system performance.
+    - year: 2024
       items: 
-      - Teaching Assistant for Computer Systems Organization (Spring ’22) course at IIIT-H. (Responsibilities included conducting tutorials, creating & evaluating assignments).
-      - Conducted tutorial on LaTex as part of the Computing Tools course at IIIT-H. <a href="https://drive.google.com/drive/folders/1i16s5mL9QwhXEoGklraNclXCuZLgMcXk?usp=sharing">[Notes]</a>
-
+      - AI Engineer at <strong><a href="https://www.navirego.com/">NAVIREGO</a></strong>, focused on image processing and mask genration. Contributed to optimizing model pipelines for real-world object recognition and preprocessing.
 # - title: Other Achievements
 #   type: time_table
 #   contents: 
@@ -108,17 +104,18 @@
 - title: Other Achievements
   type: list
   contents: 
-      - Member of winning team of <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2023-india">Qualcomm Innovation Fellowship (QIF) - 2023</a>, for proposal titled "Towards Physics-inspired Template-free 4D Clothed Human Digitization from RGB Video(s)".
-      - Secured first position in Geo-Innovation Challenge (2022) organized by the <a href="http://www.dtu.ac.in/Web/Departments/MCG/about/index.php">Multidisciplinary Center for Geoinformatics, Delhi Technological University</a>. [<a href="https://drive.google.com/file/d/1eq5-ujySGJIRnrzzm9evw_B-jO2mZuiN/view?usp=sharing">Solution</a>].
-      - All India Rank 8458 (top 1 percentile) in JEE Mains (Engineering Entrance Exam).
-      - A more extensive list can be found <a href="">here</a>.
+     - Winner of <a href="https://sih.gov.in/">Smart India Hackathon (2023)</a>, conducted by the Ministry of Education and AICTE — India's largest national-level hackathon.
+     - Selected for the Grand Finale of SIH after winning the Internal Hackathon at KLE Technological University.
+     - Represented KLE Tech as a University Blue in South Zone Badminton for 3 consecutive years.
+     - Served as a Badminton Coach for intermediate and advanced-level students.
 
 - title: Volunteering and Extra-Curricular
   type: list
   contents:
-    - Served as reviewer for <a href="https://events.iitgn.ac.in/2022/icvgip/index.html">ICVGIP '22</a> and <a href="https://www.iitrpr.ac.in/ICVGIP/index.htm">ICVGIP '23</a>.
-    - Co-led a 50-member team for an year as the overall coordinator of <a href="https://ecell.iiit.ac.in/">E-Cell, IIIT Hyderabad</a>.
-    - Member of college basketball team.
+     - Represented KLE Technological University as a University Blue in South Zone Badminton tournaments for 3 consecutive years.
+     - Badminton Coach for intermediate and advanced-level students, mentoring and training for competitive play.
+     - Taught junior students as part of the <a href="https://cevi.kletech.ac.in/">CEVI Summer School Program</a>, covering topics such as Linear Algebra, OOPs, Machine Learning, and Computer Vision.
+
 
 # - title: Open Source Projects
 #   type: time_table

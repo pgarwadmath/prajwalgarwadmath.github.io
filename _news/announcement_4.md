@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our team was awarded the [Qualcomm Innovation Fellowship (QIF)](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2023-india) for our proposal titled "Towards Physics-inspired Template-free 4D Clothed Human Digitization from RGB Video(s)".
+Attended the [3D Vision Summer School](https://scholar.google.com/citations?user=neA5dOwAAAAJ&hl=en) held at IIT Bangalore, organized by [Prof. Avinash Sharma](https://scholar.google.com/citations?user=neA5dOwAAAAJ&hl=en).

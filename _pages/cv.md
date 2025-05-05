@@ -4,5 +4,5 @@ permalink: /resume/
 title: Resume
 nav: true
 nav_order: 2
-cv_pdf: https://drive.google.com/drive/folders/10LO3pCFAQxJTWRD4f6NP3yYYvGZviS2n?usp=drive_link
+cv_pdf: https://drive.google.com/file/d/1mGzQ75TOeKky78Z1a1MQ7cQZrYkExAl2/view?usp=drive_link
 ---

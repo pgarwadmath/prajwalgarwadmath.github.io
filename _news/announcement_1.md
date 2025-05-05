@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-02-14 00:0:00-0000
+date: 2020-11-11 00:00:00-0000
 inline: true
 related_posts: false
 ---
-Secured first position in Geo-Innovation Challenge (2022) organized by [Multidisciplinary Center for Geoinformatics](http://www.dtu.ac.in/Web/Departments/MCG/about/index.php), Delhi Technological University. [\[Solution\]](https://drive.google.com/file/d/1eq5-ujySGJIRnrzzm9evw_B-jO2mZuiN/view?usp=sharing).
-<!-- A simple inline announcement. -->
+
+<p>Been a <a href="https://www.kletech.ac.in" target="_blank">University Blue</a> in Badminton for three years during my academic journey at  <a href="https://www.kletech.ac.in" target="_blank">KLE Technological University</a>. Representing the university at various events, including national-level South Zone competitions.</p>

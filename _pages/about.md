@@ -3,10 +3,10 @@ layout: about
 title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: M.S. (by Research) at <a href='https://cvit.iiit.ac.in/'> CVIT, IIIT Hyderabad</a>.
+subtitle: Software Engineer @ <a href='https://tonboimaging.com/main/'>Tonbo Imaging</a> Bengaluru, India.
 profile:
   align: right
-  image: amogh_pic.jpg
+  image: profile_pic_web.jpeg
   image_circular: true # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
@@ -20,10 +20,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
+Hello! I am currently working as a Software Engineer at <a href="https://www.tonboimaging.com/">Tonbo Imaging</a>, where I contribute to the development of next-generation vision systems that integrate computer vision, embedded AI, and edge computing. My work focuses on building intelligent imaging pipelines that power defense and industrial-grade applications in real-time environments.
 
-Hello! I am a dual degree (B.Tech and M.S. by research, in Computer Science) student, associated with the [Center for Visual Information Technology (CVIT)](https://cvit.iiit.ac.in/) at [IIIT Hyderabad](https://www.iiit.ac.in/). Here, I work with [Prof. Avinash Sharma](https://3dcomputervision.github.io/about/) on 3D Computer Vision. My research work deals with building an understanding of humans in 3D from images/videos.
-
-I am strongly motivated by a desire to help others and I hope to make some positive contributions to the world through my research. Other than research, I am passionate about sports, and most of my free time is spent in running or playing basketball.
+I hold a B.E. in Electronics and Communication from <a href="https://www.kletech.ac.in/">KLE Technological University</a> and have a strong background in computer vision, Machine learning, 3D Deep Learning & geometry. Over the years. I have worked with the <a href="https://www.kletech.ac.in/research/center-of-excellence-in-visual-intelligence-cevi">Center of Excellence in Visual Intelligence (CEVI)</a> at KLE Technological University, contributing to advancements in visual intelligence research under the guidance of <a href="https://scholar.google.co.in/citations?user=xBaqwmkAAAAJ&amp;hl=en">Dr. Uma Mudengudi</a> and <a href="https://scholar.google.com/citations?user=hZbrO4IAAAAJ&amp;hl=en">Ramesh Ashok Tabib</a>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
