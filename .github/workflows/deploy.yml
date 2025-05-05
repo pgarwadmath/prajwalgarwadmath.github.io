@@ -21,11 +21,11 @@ jobs:
     - name: Checkout 🛎️
       uses: actions/checkout@v3
     - name: Setup Ruby
-      uses: ruby/setup-ruby@v1
+      uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
       with:
-        # ruby-version: '3.2.1'
-        ruby-version: '3.2'
-        bundler-cache: true
+        ruby-version: '3.2' # Update to a supported Ruby version
+        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+        cache-version: 0 # Increment this number if you need to re-download cached gems
     - name: Install and Build 🔧
       run: |
         npm install -g mermaid.cli
