@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: Software Engineer @ <a href='https://tonboimaging.com/main/'>Tonbo Imaging</a> Bengaluru, India.
+# subtitle: Software Engineer @ <a href='https://tonboimaging.com/main/'>Tonbo Imaging</a> Bengaluru, India.
 profile:
   align: right
   image: profile_pic_web.jpeg
