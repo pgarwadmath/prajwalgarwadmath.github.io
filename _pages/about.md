@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-👋🏾Hi! I am currently working as a Software Engineer at <a href="https://www.tonboimaging.com/">Tonbo Imaging</a>, where I contribute to the development of next-generation vision systems that integrate computer vision, embedded AI, and edge computing. My work focuses on building intelligent imaging pipelines that power defense and industrial-grade applications in real-time environments.
+<h4><span class="wave">👋🏾</span>Hi! I'm Prajwal!</h4>Currently working as a Software Engineer at <a href="https://www.tonboimaging.com/">Tonbo Imaging</a>, where I contribute to the development of next-generation vision systems that integrate computer vision, embedded AI, and edge computing. My work focuses on building intelligent imaging pipelines that power defense and industrial-grade applications in real-time environments.
 
 I hold a B.E. in Electronics and Communication from <a href="https://www.kletech.ac.in/">KLE Technological University</a> and have a strong background in computer vision, Machine learning, 3D Deep Learning & geometry. Over the years. I have worked with the <a href="https://www.kletech.ac.in/research/center-of-excellence-in-visual-intelligence-cevi">Center of Excellence in Visual Intelligence (CEVI)</a> at KLE Technological University, contributing to advancements in visual intelligence research under the guidance of <a href="https://scholar.google.co.in/citations?user=xBaqwmkAAAAJ&amp;hl=en">Dr. Uma Mudengudi</a> and <a href="https://scholar.google.com/citations?user=hZbrO4IAAAAJ&amp;hl=en">Ramesh Ashok Tabib</a>
 
