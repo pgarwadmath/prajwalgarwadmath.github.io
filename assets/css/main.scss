@@ -6,6 +6,14 @@
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
+// Define custom font
+@font-face {
+  font-family: 'Samarkan';
+  src: url('/assets/fonts/SAMAN___.TTF') format('truetype'); // <-- Corrected path
+  font-weight: normal;
+  font-style: normal;
+}
+
 @import
   "variables",
   "themes",
